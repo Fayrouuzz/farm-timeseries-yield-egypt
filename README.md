@@ -1,7 +1,3 @@
-# farm-timeseries-yield-egypt
-Farm-level time series dataset for crop yield monitoring across Egyptian villages. Includes vegetation indices, weather data, and yield labels for precision agriculture modeling.
-
-
 # Farm Time Series Dataset for Crop Yield Modeling (Egypt)
 
 This repository contains a farm-level time series dataset collected from Egyptian agricultural regions. The data captures climatic, and vegetation indices across multiple farms, and is designed to support machine learning research in precision agriculture and yield forecasting.
