@@ -39,9 +39,6 @@ This repository contains a farm-level time series dataset collected from Egyptia
 | `stats.std_msavi` | Standard deviation of MSAVI |
 | `stats.std_ndmi` | Standard deviation of NDMI |
 | `stats.std_ndvi` | Standard deviation of NDVI |
-| `village` | Name of the village where the farm is located |
-| `reported_area_qarat` | Farm area in qarat (1 qarat ≈ 175 m²) |
-| `Yield_2024` | Reported yield in kilograms for the 2024 season |
 | `Max Deg.C` | Maximum daily temperature (°C) |
 | `Min Deg.C` | Minimum daily temperature (°C) |
 | `Wind Speed (m/s)` | Daily average wind speed |
@@ -49,6 +46,8 @@ This repository contains a farm-level time series dataset collected from Egyptia
 | `Precipitation (mm)` | Daily precipitation (mm) |
 | `Evapotranspiration (mm)` | Estimated evapotranspiration (mm) |
 | `Global radiation (W/m²)` | Solar radiation in watts per square meter |
+| `Yield_2024` | Reported yield in kilograms for the 2024 season |
+
 
 ---
 
