@@ -4,17 +4,17 @@ Farm-level time series dataset for crop yield monitoring across Egyptian village
 
 # Farm Time Series Dataset for Crop Yield Modeling (Egypt)
 
-This repository contains a farm-level time series dataset collected from Egyptian agricultural regions. The data captures environmental, climatic, and vegetation indices across multiple farms, and is designed to support machine learning research in precision agriculture and yield forecasting.
+This repository contains a farm-level time series dataset collected from Egyptian agricultural regions. The data captures climatic, and vegetation indices across multiple farms, and is designed to support machine learning research in precision agriculture and yield forecasting.
 
 ---
 
 ## 📦 Dataset Summary
 
 - **Scope**: Time series data from individual farms
-- **Region**: Egypt (Minya and other villages)
+- **Region**: Egypt across diffrent villages
 - **Crop Year**: 2024
 - **Granularity**: Farm-level observations per day
-- **Purpose**: Used for crop yield prediction modeling, especially for soybean fields
+- **Purpose**: Used for crop yield prediction modeling,  for soybean fields
 
 ---
 
