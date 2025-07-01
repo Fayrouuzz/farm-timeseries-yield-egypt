@@ -42,7 +42,7 @@ This repository contains a farm-level time series dataset collected from Egyptia
 | `Precipitation (mm)` | Daily precipitation (mm) |
 | `Evapotranspiration (mm)` | Estimated evapotranspiration (mm) |
 | `Global radiation (W/m²)` | Solar radiation in watts per square meter |
-| `Yield_2024` | Reported yield in kilograms for the 2024 season |
+| `Yield_2024` | Reported yield in kilograms per Hectare for the 2024 season |
 
 
 ---
