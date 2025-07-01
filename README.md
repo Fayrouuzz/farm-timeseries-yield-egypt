@@ -53,10 +53,11 @@ This repository contains a farm-level time series dataset collected from Egyptia
 ## 🔍 Usage
 
 This dataset is ideal for:
-- LSTM/CNN-LSTM models for yield prediction  
+- Time series models for yield prediction  
 - In-season crop monitoring  
 - Climate impact analysis  
-- Feature importance & explainability studies  
+- Feature importance & explainability studies 
+ 
 
 ---
 
