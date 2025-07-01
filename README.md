@@ -1,16 +1,20 @@
 # Farm Time Series Dataset for Crop Yield Modeling (Egypt)
 
-This repository contains a farm-level time series dataset collected from Egyptian agricultural regions. The data captures climatic, and vegetation indices across multiple farms, and is designed to support machine learning and deep learning research in precision agriculture and yield forecasting.
+This repository contains a farm-level time series dataset collected from Egyptian agricultural regions. The data captures climatic and vegetation indices across multiple farms and is designed to support machine learning and deep learning research in precision agriculture and yield forecasting.
+
+> 📌 This dataset was created using ground-truth data generously provided by **Lemon Tree Labs**. Their contribution enabled the farm-level alignment of satellite and weather observations, making this time series dataset possible.  
+> 🌐 [https://lemontree-labs.com](www.lemontree-labs.com)  
+> ✉️ Contact: info@lemontree-labs.com
 
 ---
 
 ## 📦 Dataset Summary
 
-- **Scope**: Time series data from individual farms
-- **Region**: Egypt across diffrent villages
-- **Crop Year**: 2024
-- **Granularity**: Farm-level observations per day
-- **Purpose**: Used for crop yield prediction modeling,  for soybean fields
+- **Scope**: Time series data from individual farms  
+- **Region**: Egypt, across different villages  
+- **Crop Year**: 2024  
+- **Granularity**: Farm-level observations per day  
+- **Purpose**: Designed for crop yield prediction modeling, especially for soybean fields  
 
 ---
 
@@ -42,22 +46,21 @@ This repository contains a farm-level time series dataset collected from Egyptia
 | `Precipitation (mm)` | Daily precipitation (mm) |
 | `Evapotranspiration (mm)` | Estimated evapotranspiration (mm) |
 | `Global radiation (W/m²)` | Solar radiation in watts per square meter |
-| `Yield_2024` | Reported yield in kilograms per Hectare for the 2024 season |
-
+| `Yield_2024` | Reported yield in kilograms per hectare for the 2024 season |
 
 ---
 
 ## 🔍 Usage
 
 This dataset is ideal for:
-- LSTM/CNN-LSTM models for yield prediction
-- In-season crop monitoring
-- Climate impact analysis
-- Feature importance & explainability studies
+- LSTM/CNN-LSTM models for yield prediction  
+- In-season crop monitoring  
+- Climate impact analysis  
+- Feature importance & explainability studies  
 
 ---
 
 ## 📜 License
 
-This dataset is released for academic and non-commercial research use only.
-
+This dataset is released for academic and non-commercial research use only.  
+Please cite or credit **Lemon Tree Labs** when using this dataset in research, as they provided the essential ground-truth farm data used to build this time series version.
